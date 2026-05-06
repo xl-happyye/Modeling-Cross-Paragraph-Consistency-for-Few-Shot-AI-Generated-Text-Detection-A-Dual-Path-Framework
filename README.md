@@ -131,7 +131,18 @@ S_final = α·S_text + (1-α)·S_cons
 ├── Feature_extractions_终_(1).ipynb   # Feature extraction pipeline
 ├── dualpath_detection.ipynb           # Training + evaluation + experiments
 ├── data/
-│   └── extracted_features.csv         # Precomputed features
+│   ├── human&_claude-academic.xlsx
+│   ├── human&_claude-news.xlsx
+│   ├── human&_claude-story.xlsx
+│   ├── human&_gemini-academic.xlsx
+│   ├── human&_gemini-news.xlsx
+│   ├── human&_gemini-story.xlsx
+│   ├── human&_GPT-4-academic.xlsx
+│   ├── human&_GPT-4-news.xlsx
+│   ├── human&_GPT-4-story.xlsx
+│   ├── academic_attack.xlsx
+│   ├── xsum_attack.xlsx
+│   └── story_attack.xlsx
 └── README.md
 ```
 
