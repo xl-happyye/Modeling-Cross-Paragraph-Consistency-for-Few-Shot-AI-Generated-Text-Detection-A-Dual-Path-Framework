@@ -141,9 +141,6 @@ S_final = α·S_text + (1-α)·S_cons
 │   ├── human&_GPT-4-academic.xlsx
 │   ├── human&_GPT-4-news.xlsx
 │   ├── human&_GPT-4-story.xlsx
-│   ├── academic_attack.xlsx
-│   ├── xsum_attack.xlsx
-│   └── story_attack.xlsx
 └── README.md
 ```
 
