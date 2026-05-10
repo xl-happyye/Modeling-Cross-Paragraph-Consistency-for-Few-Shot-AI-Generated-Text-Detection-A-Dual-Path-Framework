@@ -128,7 +128,7 @@ S_final = α·S_text + (1-α)·S_cons
 # 📁 Repository Structure
 
 ```
-├── Feature_extractions_终_(1).ipynb   # Feature extraction pipeline
+├── Feature_extractions.ipynb   # Feature extraction pipeline
 ├── Dual-Path_Detection.ipynb           # Training + evaluation + experiments
 ├── data/
 │   ├──readme.md
