@@ -238,11 +238,6 @@ We include:
 Evaluate model degradation under attack.
 
 ---
-## Baseline Reproduction
-
-Baseline results are reproduced using the official implementation of DNA-DetectLLM:
-
-https://github.com/Xiaoweizhu57/DNA-DetectLLM
 
 # 📊 Key Figures
 
